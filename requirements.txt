@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+httpx
+opencv-python
+transformers
+chromadb
+watchdog
+requests
+pandas
+datetime
+python-multipart
+torch
+torchvision
+sentence-transformers
+tensorflow
+tf-keras
